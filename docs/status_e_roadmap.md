@@ -3,7 +3,7 @@
 **Última atualização:** 26/11/2026  
 **Repositório GitHub:** `https://github.com/guilhermejacyzin/anthroposium.git`  
 **Diretório Local:** `D:\anthroposium`  
-**Fase Atual:** **Etapa A (Fundação Intelectual, Auditoria de Marca, Persona Acusmática, Bios YT/TT/FB, Grade dos 15 Episódios e Arquitetura Técnica) concluída!** → Próximo passo: **reservar os handles `@anthroposium` hoje** nas 3 plataformas, gerar o Kit Visual `[An]` em `assets/` e produzir o **Episódio Piloto #01**.
+**Fase Atual:** **Etapas A (Fundação), B (Kit Visual `[An]`), C (Dossiê Científico + Roteiros Integrais EN/PT-BR/ES + 9 Cortes Verticais do Ep. #01) e D (`DarkStudio Engine v1.0` Modular Testada Ponta a Ponta) CONCLUÍDAS!** → Próximo passo operacional: **reservar os handles `@anthroposium` nas 3 plataformas**, revisar as escolhas de arte por cena e disparar o render final com voz Gemini TTS (`--tts`) ou narrador humano do Episódio Piloto #01.
 
 ---
 
@@ -32,6 +32,16 @@
 - [x] `docs/arquitetura_darkstudio_engine.md` (projeto do motor Python modular dual 16:9 limpo + 9:16 burned)
 - [x] **Kit Visual Oficial `[An]`** auditado e salvo em `assets/` (`avatar_anthroposium_1024x1024.png`, `banner_youtube_2560x1440.jpg`, `capa_facebook_1640x624.png`, `watermark_anthroposium_150x150.png`, `emblema_anthroposium_1024x1024.png` e `arte_base_thumbnail_1920x1080.png`)
 - [x] Templates oficiais de roteiro (`templates/template_longo_ctv_3_atos.md` e `templates/template_short_vertical.md`)
+- [x] **Dossiê Científico Verificado do Episódio #01** (`docs/dossie_cientifico_ep01.md`) com DOIs revisados por pares (Feynman 1982, Scannell 2012, Reiher 2017, Sun 2022, Lee 2023, AlphaFold 3 2024, Google Willow 2024, IBM SQD 2025, Insilico/Aspuru-Guzik KRAS 2025 + linha histórica Papiro de Ebers → Aspirina → Penicilina → Talidomida/Frances Kelsey)
+- [x] **3 Roteiros Longos Integrais (`~22–25 min` cada, sem resumos):**
+  - `en/longos/001_quantum_medicine_simulation.md`
+  - `pt-br/longos/001_simulacao_molecular_medicina_quantica.md`
+  - `es/longos/001_simulacion_molecular_medicina_cuantica.md`
+- [x] **9 Roteiros Completos de Cortes Verticais `9:16` (`70–85s`, otimizados para TikTok Creator Rewards + loop gramatical):**
+  - EN: `001a_caffeine_quantum_wall.md`, `001b_thalidomide_mirror_trap.md`, `001c_90_percent_drugs_fail_quantum.md`
+  - PT-BR: `001a_cafeina_muro_quantico.md`, `001b_talidomida_armadilha_espelho.md`, `001c_90_porcento_remedios_falham.md`
+  - ES: `001a_cafeina_muro_cuantico.md`, `001b_talidomida_trampa_espejo.md`, `001c_90_porciento_farmacos_fracasan.md`
+- [x] **`DarkStudio Engine v1.0`** construída em `D:\dark_studio_engine\` (`config.py`, `tts.py`, `align.py`, `dsp_audio.py`, `compositor.py`, `cli.py`) com presets dos 3 canais (`anthroposium`, `rose_grimoire`, `cynical_oracle`), fontes oficiais instaladas e **teste real ponta a ponta aprovado** (`master_16x9_clean.mp4`, `vertical_9x16_burned.mp4`, `mix_48khz_stereo.wav`, `captions_en.srt` + inspeção visual de frames)
 
 ---
 
@@ -46,9 +56,9 @@
 2. [x] Gerar e validar visualmente o **Kit Visual Oficial `[An]`** em `assets/`
 
 ### Semanas 2 a 4 — Motor Modular & Episódio Piloto #01
-3. [ ] Construir o núcleo do **`DarkStudio Engine`** (`D:\dark_studio_engine\`) reutilizando e modularizando seus módulos já validados (TTS, Whisper+difflib, DSP `48 kHz` com Mid-Side, render paralelo por cena e correção do z-index de partículas).
-4. [ ] Escrever e revisar com fontes primárias (*Nature/Science/PubMed/arXiv*) o **Episódio #01** (`en/longos/001_*.md` + adaptações nativas `pt-br/longos/` e `es/longos/`) — recomendação de estreia de impacto máximo: **Ep. #01 (Simulação Molecular & Computação Quântica na Medicina)** OU **Ep. #02 (Aqua Tofana & Nascimento da Toxicologia)** para abrir com altíssimo CTR imediato!
-5. [ ] Renderizar `ep01_master_16x9_clean.mp4` (3 faixas de áudio MLA + 3 `.srt` + 3 thumbnails A/B *Test & Compare*) + **3 cortes verticais `9:16` (`65–90s`)** em EN, PT-BR e ES.
+3. [x] Construir e validar ponta a ponta o núcleo do **`DarkStudio Engine`** (`D:\dark_studio_engine\`) — TTS plugável + Whisper/SequenceMatcher + `.srt` automático + DSP `48 kHz` com Mid-Side Vocal Pocket + render paralelo por cena (`ProcessPoolExecutor` + FFmpeg concat) + z-index corrigido de partículas.
+4. [x] Escrever e revisar com fontes primárias (*Nature/Science Advances/Nature Biotech/PNAS/Acta Pharm. Sin. B*) o **Episódio #01** completo em EN, PT-BR e ES + 9 cortes verticais `9:16` (`en/`, `pt-br/`, `es/`).
+5. [ ] Gerar artes visuais por cena do Ep. #01 e disparar render final com voz (`--tts` ou `--voice-wav`) de `ep01_master_16x9_clean.mp4` (3 faixas MLA + 3 `.srt` + 3 thumbnails A/B *Test & Compare*) + **3 cortes verticais `9:16` (`70–85s`)** em EN, PT-BR e ES.
 
 ### Dias 31 a 90 — Cadência de Estúdio & Aprovação YPP
 6. [ ] Publicar **6 documentários longos (`18–30 min`)** + **18 a 24 cortes verticais** distribuídos em YouTube, TikTok (`15–30 min` antes) e Facebook Reels.
