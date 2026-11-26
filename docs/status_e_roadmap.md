@@ -30,23 +30,20 @@
 - [x] `docs/metodo_tres_atos_e_grade_15_episodios.md` (fórmula dos 3 atos + 15 primeiros episódios no Nicho em T)
 - [x] `docs/estrategia_monetizacao_e_crescimento.md` (equação US\$ 30k–80k+/mês, MLA, TikTok/FB e blindagem YPP)
 - [x] `docs/arquitetura_darkstudio_engine.md` (projeto do motor Python modular dual 16:9 limpo + 9:16 burned)
+- [x] **Kit Visual Oficial `[An]`** auditado e salvo em `assets/` (`avatar_anthroposium_1024x1024.png`, `banner_youtube_2560x1440.jpg`, `capa_facebook_1640x624.png`, `watermark_anthroposium_150x150.png`, `emblema_anthroposium_1024x1024.png` e `arte_base_thumbnail_1920x1080.png`)
 - [x] Templates oficiais de roteiro (`templates/template_longo_ctv_3_atos.md` e `templates/template_short_vertical.md`)
 
 ---
 
 ## 3. Roadmap Acionável (Próximos 90 Dias)
 
-### Semana 1 — Blindagem de Marca & Kit Visual
-1. [ ] **Reservar imediatamente os handles** nas 3 plataformas:
-   - YouTube: `@anthroposium` (configurar idioma original `English (US)` + traduções PT-BR e ES de `docs/identidade_visual_e_bios.md`)
+### Semana 1 — Blindagem de Marca & Vitrines
+1. [ ] **Reservar imediatamente os handles** e subir as artes de `assets/` + bios de `docs/identidade_visual_e_bios.md`:
+   - YouTube: `@anthroposium` (idioma original `English (US)` + traduções PT-BR e ES)
    - TikTok: `@anthroposium` (EN), `@anthroposium.br` (PT-BR), `@anthroposium.es` (ES)
    - Facebook: Página `Anthroposium` (e opcionalmente `Anthroposium Brasil`)
    - Domínio (opcional): checar `anthroposium.com`
-2. [ ] Gerar e salvar em `assets/` o **Kit Visual Oficial**:
-   - `avatar_anthroposium_1024x1024.png` (símbolo `[An]` + dupla hélice Ouro/Ciano sobre `#0D1117`)
-   - `banner_youtube_2560x1440.jpg` (área segura `1546 × 423` validada)
-   - `capa_facebook_1640x624.png` (canto inferior esquerdo limpo)
-   - `watermark_anthroposium_150x150.png` (PNG transparente)
+2. [x] Gerar e validar visualmente o **Kit Visual Oficial `[An]`** em `assets/`
 
 ### Semanas 2 a 4 — Motor Modular & Episódio Piloto #01
 3. [ ] Construir o núcleo do **`DarkStudio Engine`** (`D:\dark_studio_engine\`) reutilizando e modularizando seus módulos já validados (TTS, Whisper+difflib, DSP `48 kHz` com Mid-Side, render paralelo por cena e correção do z-index de partículas).
