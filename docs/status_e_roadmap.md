@@ -12,7 +12,7 @@
 | Dimensão | Decisão Travada | Fundamento |
 | :--- | :--- | :--- |
 | **Marca Global** | **`Anthroposium`** (`@anthroposium`) | 100% virgem no YouTube, TikTok, Facebook e marcas registradas; une *Anthropos* (Humanas) + *-ium* (Química/Ciência) + *Symposium*; zero palavra sensível para filtros de moderação; não exige tradução |
-| **Idioma & Escala** | **EN-first (EUA/UK/CA/AU)** + **MLA nativo para PT-BR e ES** no YouTube; **contas separadas por idioma no TikTok** (`@anthroposium`, `.br`, `.es`) | Maximiza RPM (`US$ 9–20+` vs. `R$ 15–30`) e patrocínios em dólar (`US$ 25–60 CPM`), permitindo atingir US\$ 30k+/mês com 400k–900k views longas/mês |
+| **Idioma & Escala** | **1 Canal YouTube EN-first (EUA/UK/CA/AU)** + **MLA nativo em 5 idiomas (`EN`, `DE`, `FR`, `ES`, `PT-BR`)**; **contas separadas por idioma no TikTok** (`@anthroposium`, `.de`, `.fr`, `.es`, `.br`) | Maximiza RPM global (EUA/UK + DACH Alemanha/Suíça + França/Canadá) somando todas as views e horas de YPP em um único canal YouTube |
 | **Posicionamento Editorial** | **Humanas no olhar + Ciência de fronteira no motor** — Fórmula dos 3 Atos (*História Humana → Autópsia Biológica/Química → Biotech, IA & Computação Quântica*) | Evita a armadilha do nicho estreito de "quântica pura" (~500k–2M pessoas) e captura o maior cluster intelectual do YouTube (**100M+ espectadores mensais**, equilíbrio ~50/50 de gênero, 22–54 anos) |
 | **Formato Principal** | **2 a 4 Mini-Documentários/mês (`18–32 min`, `16:9` Smart TV, zero legendas queimadas)** + **3–4 cortes verticais `9:16` (`65–95s`) por episódio** | Captura a liderança da Smart TV (Nielsen 15,8% / Kantar IBOPE TV #1), multiplica *mid-rolls*, constrói catálogo evergreen de 5–10 anos e destrava TikTok Creator Rewards (`>60s`) |
 | **Motor de Produção** | **`DarkStudio Engine` modular** (`D:\dark_studio_engine\`) — render paralelo por cena, áudio DSP `48 kHz` estéreo (Ato 1 Câmara → Ato 3 Strobe/Cosmos), saída dual `clean_master_16x9.mp4` + `burned_9x16.mp4` | Elimina a duplicação de scripts monolíticos de 1.000 linhas e reduz o custo marginal de produção para manter margem líquida acima de 75%–85% |
@@ -33,15 +33,20 @@
 - [x] **Kit Visual Oficial `[An]`** auditado e salvo em `assets/` (`avatar_anthroposium_1024x1024.png`, `banner_youtube_2560x1440.jpg`, `capa_facebook_1640x624.png`, `watermark_anthroposium_150x150.png`, `emblema_anthroposium_1024x1024.png` e `arte_base_thumbnail_1920x1080.png`)
 - [x] Templates oficiais de roteiro (`templates/template_longo_ctv_3_atos.md` e `templates/template_short_vertical.md`)
 - [x] **Dossiê Científico Verificado do Episódio #01** (`docs/dossie_cientifico_ep01.md`) com DOIs revisados por pares (Feynman 1982, Scannell 2012, Reiher 2017, Sun 2022, Lee 2023, AlphaFold 3 2024, Google Willow 2024, IBM SQD 2025, Insilico/Aspuru-Guzik KRAS 2025 + linha histórica Papiro de Ebers → Aspirina → Penicilina → Talidomida/Frances Kelsey)
-- [x] **3 Roteiros Longos Integrais (`~22–25 min` cada, sem resumos):**
+- [x] **Guia Operacional Definitivo MLA 5 Idiomas** (`docs/guia_operacional_mla_5_idiomas.md`) cobrindo YouTube Studio, Recursos Avançados, controle de Auto-Dubbing, vídeo `16:9` universal e *time-locking* cena a cena
+- [x] **5 Roteiros Longos Integrais (`~24–30 min` cada, sem resumos, nos 5 idiomas):**
   - `en/longos/001_quantum_medicine_simulation.md`
-  - `pt-br/longos/001_simulacao_molecular_medicina_quantica.md`
+  - `de/longos/001_molekulare_simulation_quantenmedizin.md`
+  - `fr/longos/001_simulation_moleculaire_medecine_quantique.md`
   - `es/longos/001_simulacion_molecular_medicina_cuantica.md`
-- [x] **9 Roteiros Completos de Cortes Verticais `9:16` (`70–85s`, otimizados para TikTok Creator Rewards + loop gramatical):**
+  - `pt-br/longos/001_simulacao_molecular_medicina_quantica.md`
+- [x] **15 Roteiros Completos de Cortes Verticais `9:16` (`70–85s`, otimizados para TikTok Creator Rewards + loop gramatical — 3 cortes × 5 idiomas):**
   - EN: `001a_caffeine_quantum_wall.md`, `001b_thalidomide_mirror_trap.md`, `001c_90_percent_drugs_fail_quantum.md`
-  - PT-BR: `001a_cafeina_muro_quantico.md`, `001b_talidomida_armadilha_espelho.md`, `001c_90_porcento_remedios_falham.md`
+  - DE: `001a_koffein_quantenmauer.md`, `001b_thalidomid_spiegelfalle.md`, `001c_90_prozent_medikamente_scheitern.md`
+  - FR: `001a_cafeine_mur_quantique.md`, `001b_thalidomide_piege_miroir.md`, `001c_90_pourcent_medicaments_echouent.md`
   - ES: `001a_cafeina_muro_cuantico.md`, `001b_talidomida_trampa_espejo.md`, `001c_90_porciento_farmacos_fracasan.md`
-- [x] **`DarkStudio Engine v1.0`** construída em `D:\dark_studio_engine\` (`config.py`, `tts.py`, `align.py`, `dsp_audio.py`, `compositor.py`, `cli.py`) com presets dos 3 canais (`anthroposium`, `rose_grimoire`, `cynical_oracle`), fontes oficiais instaladas e **teste real ponta a ponta aprovado** (`master_16x9_clean.mp4`, `vertical_9x16_burned.mp4`, `mix_48khz_stereo.wav`, `captions_en.srt` + inspeção visual de frames)
+  - PT-BR: `001a_cafeina_muro_quantico.md`, `001b_talidomida_armadilha_espelho.md`, `001c_90_porcento_remedios_falham.md`
+- [x] **`DarkStudio Engine v1.1 (MLA 5 Idiomas)`** construída em `D:\dark_studio_engine\` (`config.py`, `tts.py`, `align.py`, `dsp_audio.py`, `compositor.py`, `mla.py`, `cli.py`) com modo **`universal_mla`** (vídeo `16:9` 100% livre de frases em inglês) + comando **`mla-sync`** gerando 5 faixas de áudio sincronizadas ao sample exato (`delta = 0`) + 5 `.srt` + 1 vídeo `16:9` universal testado ponta a ponta!
 
 ---
 

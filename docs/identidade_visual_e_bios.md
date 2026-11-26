@@ -1,6 +1,6 @@
 # Identidade Visual, Direção de Arte e Biografias — Anthroposium
 
-Guia completo de identidade visual e textos prontos para **YouTube (`@anthroposium`)**, **TikTok (`@anthroposium`, `.br`, `.es`)** e **Facebook (`Anthroposium`)**.
+Guia completo de identidade visual e textos prontos para **YouTube (`@anthroposium` — 1 canal com 5 idiomas via MLA: EN, DE, FR, ES, PT-BR)**, **TikTok (`@anthroposium`, `.de`, `.fr`, `.es`, `.br`)** e **Facebook (`Anthroposium`)**.
 
 ---
 
@@ -79,6 +79,24 @@ Evolução direta do seu motor em `D:\producao_rose_grimoire\teste_piloto\compos
 >
 > Contenido estrictamente educativo y documental; no constituye consejo médico ni financiero.
 
+#### Français — Traduction dans YouTube Studio (~610 caracteres)
+> Des poisons antiques et empires oubliés jusqu'à CRISPR, l'IA et la biologie quantique — Anthroposium explore les forces invisibles qui ont façonné l'humanité et réécrivent aujourd'hui ce que signifie être humain.
+>
+> Chaque documentaire relie histoire humaine, anthropologie, médecine, botanique, chimie et biotechnologie de pointe en un récit cinématographique rigoureux, fondé sur la science évaluée par les pairs et sans sensationnalisme.
+>
+> Nouveaux documentaires toutes les deux semaines • Récits visuels en Shorts.
+>
+> Contenu strictement éducatif et documentaire ; ne constitue ni un avis médical ni un conseil financier.
+
+#### Deutsch — Übersetzung im YouTube Studio (~595 caracteres)
+> Von antiken Giften und vergessenen Imperien bis zu CRISPR, KI und Quantenbiologie — Anthroposium erforscht die unsichtbaren Kräfte, die die Menschheit geformt haben und heute neu definieren, was Menschsein bedeutet.
+>
+> Jede Dokumentation verbindet Menschheitsgeschichte, Anthropologie, Medizin, Botanik, Chemie und Spitzen-Biotechnologie zu einer filmischen Geschichte — gestützt auf begutachtete Forschung und ganz ohne Hype.
+>
+> Neue Dokumentationen alle zwei Wochen • Visuelle Kurzgeschichten als Shorts.
+>
+> Ausschließlich Bildungs- und Dokumentationsinhalte; keine medizinische oder finanzielle Beratung.
+
 ---
 
 ### 4.2 TIKTOK (Limite Rígido de 80 Caracteres — Contas Separadas por Idioma!)
@@ -86,12 +104,18 @@ Evolução direta do seu motor em `D:\producao_rose_grimoire\teste_piloto\compos
 - **EN (`@anthroposium` — 76 caracteres):**
   > History, medicine, chemistry & quantum biotech 🧬
   > How science shapes humanity
-- **PT-BR (`@anthroposium.br` — 76 caracteres):**
-  > História, medicina, botânica & biotecnologia 🧬
-  > A ciência da condição humana
+- **DE (`@anthroposium.de` — 75 caracteres):**
+  > Geschichte, Medizin, Chemie & Quanten-Biotech 🧬
+  > Wie Materie uns formt
+- **FR (`@anthroposium.fr` — 77 caracteres):**
+  > Histoire, médecine, chimie & biotech quantique 🧬
+  > La science de l'humain
 - **ES (`@anthroposium.es` — 75 caracteres):**
   > Historia, medicina, química y biotecnología 🧬
   > La ciencia de lo humano
+- **PT-BR (`@anthroposium.br` — 76 caracteres):**
+  > História, medicina, botânica & biotecnologia 🧬
+  > A ciência da condição humana
 
 ---
 
@@ -99,7 +123,11 @@ Evolução direta do seu motor em `D:\producao_rose_grimoire\teste_piloto\compos
 
 - **EN (`Anthroposium` — 96 caracteres):**
   > Where human history meets medicine, botany, chemistry, and quantum biotech. Cinematic deep-dives.
-- **PT-BR (`Anthroposium Brasil` — 98 caracteres):**
-  > Onde a história humana encontra medicina, botânica, química e biotecnologia. Documentários reais.
+- **DE (`Anthroposium Deutsch` — 99 caracteres):**
+  > Wo Menschheitsgeschichte auf Medizin, Botanik, Chemie und Quanten-Biotech trifft. Dokumentationen.
+- **FR (`Anthroposium Français` — 98 caracteres):**
+  > Là où l'histoire humaine croise médecine, botanique, chimie et biotech quantique. Documentaires.
 - **ES (`Anthroposium Español` — 99 caracteres):**
   > Donde la historia humana se cruza con medicina, botánica, química y biotecnología. Documentales.
+- **PT-BR (`Anthroposium Brasil` — 98 caracteres):**
+  > Onde a história humana encontra medicina, botânica, química e biotecnologia. Documentários reais.

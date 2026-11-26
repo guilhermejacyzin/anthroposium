@@ -3,7 +3,7 @@
 - **Channel:** Anthroposium (`@anthroposium`)
 - **Format:** Long-Form CTV Documentary (`16:9` Clean Master for MLA — **Zero burned subtitles**)
 - **Target Runtime:** ~22–25 minutes (`~3,250 spoken words` @ ~138 WPM documentary cadence)
-- **Languages:** Primary `en-US` + MLA `pt-br` ([001_simulacao_molecular_medicina_quantica.md](../../pt-br/longos/001_simulacao_molecular_medicina_quantica.md)) + MLA `es` ([001_simulacion_molecular_medicina_cuantica.md](../../es/longos/001_simulacion_molecular_medicina_cuantica.md))
+- **Languages:** Primary `en-US` + MLA `de` ([001_molekulare_simulation_quantenmedizin.md](../../de/longos/001_molekulare_simulation_quantenmedizin.md)) + MLA `fr` ([001_simulation_moleculaire_medecine_quantique.md](../../fr/longos/001_simulation_moleculaire_medecine_quantique.md)) + MLA `es` ([001_simulacion_molecular_medicina_cuantica.md](../../es/longos/001_simulacion_molecular_medicina_cuantica.md)) + MLA `pt-br` ([001_simulacao_molecular_medicina_quantica.md](../../pt-br/longos/001_simulacao_molecular_medicina_quantica.md))
 - **Scientific Dossier:** [dossie_cientifico_ep01.md](../../docs/dossie_cientifico_ep01.md)
 
 ---
