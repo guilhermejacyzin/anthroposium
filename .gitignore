@@ -1,0 +1,25 @@
+# Mídias pesadas e arquivos de renderização
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.flac
+*.aac
+*.zip
+*.tar.gz
+
+# Ambiente Python e credenciais
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Sistema e caches
+.DS_Store
+Thumbs.db
+desktop.ini
+tmp/
+output/
+render/
