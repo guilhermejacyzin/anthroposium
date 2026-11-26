@@ -4,8 +4,18 @@
 - **Platforms:** 1st TikTok (`@anthroposium`) → 2nd YouTube Shorts (*Related Video* → Ep. #01) + Facebook Reels
 - **Target Runtime:** ~76 seconds (`182 words`) — **>60s eligible for TikTok Creator Rewards** + loop
 - **400ms Scroll-Stopper Headline:** `WHY 90% OF NEW DRUGS FAIL`
-- **Caption / SEO:**
-  > Computers got billions of times faster—yet inventing a single new medicine got 80x more expensive. Here is what AlphaFold 3 and quantum computers can (and can't) fix. #Anthroposium #Biotech #AlphaFold #QuantumComputing
+- **Caption / SEO (With Full Peer-Reviewed Links — Anthroposium Law #1):**
+  > Computers got billions of times faster—yet inventing a single new medicine got ~80x more expensive. Here is what AlphaFold 3 and quantum computers can (and can't) fix.
+  >
+  > Peer-reviewed sources:
+  > • Scannell, J. W. et al. (2012), Nature Reviews Drug Discovery: https://doi.org/10.1038/nrd3681
+  > • Sun, D. et al. (2022), Acta Pharmaceutica Sinica B: https://doi.org/10.1016/j.apsb.2022.02.002
+  > • Goings, J. J. et al. (2022), PNAS (Cytochrome P450): https://doi.org/10.1073/pnas.2203533119
+  > • Abramson, J. et al. (2024), Nature (AlphaFold 3): https://doi.org/10.1038/s41586-024-07487-w
+  > • Google Quantum AI (2024), Nature (Willow): https://doi.org/10.1038/s41586-024-08449-y
+  > • Robledo Moreno, J. et al. (2025), Science Advances (IBM SQD): https://doi.org/10.1126/sciadv.adu9991
+  > • Ghazi Vakili, M. et al. (2025), Nature Biotechnology (KRAS): https://doi.org/10.1038/s41587-024-02526-3
+  > #Anthroposium #Biotech #AlphaFold #QuantumComputing
 
 ## Clean Spoken Script (EN — 182 words)
 ```text

@@ -16,14 +16,47 @@
   - **Thumb A (Past × Quantum Split):** Left side: antique botanical engraving of willow bark & glass vial in warm gold `#D4A559`. Right side: glowing quantum cyan `#38BDF8` molecular wave collapsing. Text (2 words): `10⁴⁸ BITS`
   - **Thumb B (The Drug Wall):** Giant glowing caffeine molecule on dark graphite next to a tiny server rack crossed by a subtle crimson/cyan line. Text (3 words): `IMPOSSIBLE TO SIMULATE`
   - **Thumb C (Human Mirror):** Two mirrored molecular rings glowing gold vs. coral over a quiet 1960s pharmacy silhouette. Text (3 words): `THE MIRROR TRAP`
-- **SEO Description (EN):**
-  > For four thousand years, humanity invented medicine largely in the dark—chewing willow bark, stumbling on moldy petri dishes, and learning too late when a single mirrored molecule turned toxic inside the human body. Today, even the fastest supercomputers on Earth cannot simulate a single molecule like caffeine with exact quantum accuracy.
+- **SEO Description / Video Caption (EN — Full Peer-Reviewed Links Mandatory under Anthroposium Law #1):**
+  > For four thousand years, humanity invented medicine largely in the dark—chewing willow bark, stumbling on moldy petri dishes, and learning too late when a single mirrored molecule turned toxic inside the human body. Today, even the fastest supercomputers on Earth cannot simulate the exact, unapproximated quantum state of a single molecule like caffeine.
   >
-  > In this documentary, Anthroposium traces the hidden history of pharmacology, the mathematical wall behind Eroom's Law and the 90% clinical trial failure rate, and what AI (AlphaFold 3) and quantum computing (Google Willow, IBM SQD, and hybrid KRAS drug design) can—and cannot—actually do for the future of human medicine.
+  > In this documentary, Anthroposium traces the peer-reviewed history of pharmacology, the mathematical wall behind Eroom's Law and the 90% clinical trial failure rate, and what AI (AlphaFold 3) and quantum computing (Google Willow, IBM SQD, and hybrid KRAS drug design) can—and cannot—actually do for the future of human medicine.
   >
-  > 📚 Peer-reviewed references cited: Feynman (1982), Scannell et al. (Nature Reviews Drug Discovery, 2012), Reiher et al. (PNAS, 2017), Sun et al. (Acta Pharmaceutica Sinica B, 2022), Lee et al. (Nature Communications, 2023), Abramson et al. / AlphaFold 3 (Nature, 2024), Google Quantum AI / Willow (Nature, 2024), Robledo Moreno et al. / IBM SQD (Science Advances, 2025), Insilico Medicine & Univ. of Toronto (Nature Biotechnology, 2025).
+  > 📚 PEER-REVIEWED REFERENCES (Full Links):
   >
-  > Notice: Strictly educational and documentary content based on historical archives and peer-reviewed science. Not medical or financial advice.
+  > — ACT I: History of Medicine, Aspirin, Penicillin & Thalidomide —
+  > • Stone, E. (1763). An account of the success of the bark of the willow in the cure of agues. Philosophical Transactions of the Royal Society of London: https://doi.org/10.1098/rstl.1763.0033
+  > • Sneader, W. (2000). The discovery of aspirin: a reappraisal. BMJ: https://doi.org/10.1136/bmj.321.7276.1591
+  > • Mahdi, J. G. et al. (2006). The historical analysis of aspirin discovery, its relation to the willow tree and antiproliferative and anticancer potential. Cell Proliferation: https://doi.org/10.1111/j.1365-2184.2006.00377.x
+  > • Vane, J. R. (1971). Inhibition of prostaglandin synthesis as a mechanism of action for aspirin-like drugs. Nature New Biology: https://doi.org/10.1038/newbio231232a0
+  > • Fleming, A. (1929 / 1980 reprint). On the antibacterial action of cultures of a penicillium. Reviews of Infectious Diseases: https://doi.org/10.1093/clinids/2.1.129
+  > • Houbraken, J., Frisvad, J. C., & Samson, R. A. (2011). Fleming's penicillin producing strain is not Penicillium chrysogenum but P. rubens. IMA Fungus: https://doi.org/10.5598/imafungus.2011.02.01.12
+  > • Vargesson, N. (2015). Thalidomide-induced teratogenesis: History and mechanisms. Birth Defects Research Part C: https://doi.org/10.1002/bdrc.21096
+  > • BMJ (1962). Thalidomide and Congenital Abnormalities: https://doi.org/10.1136/bmj.2.5305.646
+  > • Eriksson, T. et al. (1995). Stereospecific determination, chiral inversion in vitro and pharmacokinetics in humans of the enantiomers of thalidomide. Chirality: https://doi.org/10.1002/chir.530070109
+  > • Ito, T. et al. (2010). Identification of a primary target of thalidomide teratogenicity (Cereblon / CRBN). Science: https://doi.org/10.1126/science.1177319
+  > • Mori, T. et al. (2018). Structural basis of thalidomide enantiomer binding to cereblon. Scientific Reports: https://doi.org/10.1038/s41598-018-19202-7
+  >
+  > — ACT II: Eroom's Law, 90% Clinical Failure, Levinthal, Cytochrome P450 & Quantum Scaling —
+  > • Scannell, J. W. et al. (2012). Diagnosing the decline in pharmaceutical R&D efficiency. Nature Reviews Drug Discovery: https://doi.org/10.1038/nrd3681
+  > • Sun, D. et al. (2022). Why 90% of clinical drug development fails and how to improve it? Acta Pharmaceutica Sinica B: https://doi.org/10.1016/j.apsb.2022.02.002
+  > • Zwanzig, R., Szabo, A., & Bagchi, B. (1992). Levinthal's paradox. PNAS: https://doi.org/10.1073/pnas.89.1.20
+  > • Zanger, U. M., & Schwab, M. (2013). Cytochrome P450 enzymes in drug metabolism. Pharmacology & Therapeutics: https://doi.org/10.1016/j.pharmthera.2012.12.007
+  > • Feynman, R. P. (1982). Simulating physics with computers. International Journal of Theoretical Physics: https://doi.org/10.1007/bf02650179
+  > • Cao, Y. et al. (2019). Quantum Chemistry in the Age of Quantum Computing. Chemical Reviews: https://doi.org/10.1021/acs.chemrev.8b00803
+  > • Bauer, B. et al. (2020). Quantum Algorithms for Quantum Chemistry and Quantum Materials Science. Chemical Reviews: https://doi.org/10.1021/acs.chemrev.9b00829
+  > • Reiher, M. et al. (2017). Elucidating reaction mechanisms on quantum computers (FeMoco). PNAS: https://doi.org/10.1073/pnas.1619152114
+  > • Goings, J. J. et al. (2022). Reliably assessing the electronic structure of cytochrome P450 on today's classical computers and tomorrow's quantum computers. PNAS: https://doi.org/10.1073/pnas.2203533119
+  >
+  > — ACT III: AlphaFold 2/3, Anti-Hype Audit, Google Willow, IBM SQD & KRAS —
+  > • Jumper, J. et al. (2021). Highly accurate protein structure prediction with AlphaFold. Nature: https://doi.org/10.1038/s41586-021-03819-2
+  > • Abramson, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature: https://doi.org/10.1038/s41586-024-07487-w
+  > • Lee, S. et al. (2023). Evaluating the evidence for exponential quantum advantage in ground-state quantum chemistry. Nature Communications: https://doi.org/10.1038/s41467-023-37587-6
+  > • Santagati, R. et al. (2024). Drug design on quantum computers. Nature Physics: https://doi.org/10.1038/s41567-024-02411-5
+  > • Google Quantum AI (2024). Quantum error correction below the surface code threshold (Willow). Nature: https://doi.org/10.1038/s41586-024-08449-y
+  > • Robledo Moreno, J. et al. (2025). Chemistry beyond the scale of exact diagonalization on a quantum-centric supercomputer (SQD). Science Advances: https://doi.org/10.1126/sciadv.adu9991
+  > • Ghazi Vakili, M. et al. (2025). Quantum-computing-enhanced algorithm unveils potential KRAS inhibitors. Nature Biotechnology: https://doi.org/10.1038/s41587-024-02526-3
+  >
+  > Notice: Strictly educational and documentary content based on peer-reviewed scientific literature. Not medical or financial advice.
   >
   > #Anthroposium #QuantumComputing #Biotechnology #HistoryOfMedicine #AlphaFold #ScienceDocumentary
 
@@ -50,7 +83,7 @@ And yet, if you took the fastest supercomputer ever built by the human species�
 
 It could not do it.
 
-Not because the machine is slow. Not because the code is sloppy. Because simply storing the exact mathematical state of that one tiny molecule would require roughly ten to the forty-eighth classical bits of memory—nearly one-tenth of all the atoms that make up planet Earth.
+Not because the machine is slow. Not because the code is sloppy. Because under the exact exponential scaling of quantum mechanics—with zero mathematical shortcuts—simply storing the complete electronic state of roughly one hundred and sixty molecular spin-orbitals would require on the order of ten to the forty-eighth classical bits of memory—nearly one-tenth of all the atoms that make up planet Earth.
 
 Think about what that means for your own body.
 
@@ -79,7 +112,7 @@ More than three thousand years after the Ebers Papyrus—in seventeen sixty-thre
 
 Another sixty-five years passed before a German pharmacist in Munich, Joseph Buchner, isolated bitter yellow crystals from the bark in eighteen twenty-eight and named them salicin. Ten years later, the Italian chemist Raffaele Piria refined it into salicylic acid. It knocked down fever and arthritis—while burning holes straight through patients' stomachs.
 
-Finally, in eighteen ninety-seven, a young chemist at Bayer named Felix Hoffmann attached a tiny chemical cap—an acetyl group—onto that harsh acid, building on an unstable synthesis first attempted in France forty-four years earlier by Charles Frédéric Gerhardt. Two years later, in eighteen ninety-nine, Bayer trademarked the molecule under a name that still sits in half the medicine cabinets on Earth: Aspirin.
+Finally, in eighteen ninety-seven, a young chemist at Bayer named Felix Hoffmann—working under the supervision of Arthur Eichengrün, whose central role historians later fought to restore—attached a tiny chemical cap, an acetyl group, onto that harsh acid, building on an unstable synthesis first attempted in France forty-four years earlier by Charles Frédéric Gerhardt. Two years later, in eighteen ninety-nine, Bayer trademarked the molecule under a name that still sits in half the medicine cabinets on Earth: Aspirin.
 
 Pause on that timeline for a second.
 
@@ -87,7 +120,7 @@ From the Egyptian willow bark to the first clean tablet of aspirin took three th
 
 For millennia, our greatest medical triumphs were not engineered. They were stumbled upon.
 
-In nineteen twenty-eight, Alexander Fleming left a cluttered London laboratory for a summer holiday, forgetting a stack of petri dishes beside an open workspace. When he returned, a stray spore of mold—*Penicillium notatum*—had drifted onto a plate of *Staphylococcus* bacteria and carved a clear, lifeless ring around itself. Penicillin saved hundreds of millions of lives. It launched the antibiotic age. And it began as an unwashed dish.
+In nineteen twenty-eight, Alexander Fleming left a cluttered London laboratory for a summer holiday, forgetting a stack of petri dishes beside an open workspace. When he returned, a stray spore of mold—historically labeled *Penicillium notatum*, and later reclassified by modern mycologists as *Penicillium rubens*—had drifted onto a plate of *Staphylococcus* bacteria and carved a clear, lifeless ring around itself. Penicillin saved hundreds of millions of lives. It launched the antibiotic age. And it began as an unwashed dish.
 
 For a brief moment in the mid-twentieth century, that streak of brilliance and luck created a dangerous illusion: the belief that organic chemistry had finally tamed biology—that if you could synthesize a clean, stable molecule in a glass flask and test it in lab animals, you understood what it would do inside a human being.
 

@@ -4,8 +4,15 @@
 - **Platforms:** 1st TikTok (`@anthroposium`) → 2nd YouTube Shorts (*Related Video* → Ep. #01) + Facebook Reels
 - **Target Runtime:** ~78 seconds (`186 words`) — **>60s eligible for TikTok Creator Rewards** + loop
 - **400ms Scroll-Stopper Headline:** `ONE FLIPPED ATOM CHANGED MEDICINE`
-- **Caption / SEO:**
-  > Even if you took the "safe" mirror version of thalidomide, human blood flipped half of it into the toxic twin within hours. Watch the full documentary below. #Anthroposium #HistoryOfMedicine #Chemistry #Science
+- **Caption / SEO (With Full Peer-Reviewed Links — Anthroposium Law #1):**
+  > Even if you took the "safe" mirror version of thalidomide, human blood flipped half of it into the toxic twin within hours. Watch the full documentary below.
+  >
+  > Peer-reviewed sources:
+  > • Vargesson, N. (2015), Birth Defects Research Part C: https://doi.org/10.1002/bdrc.21096
+  > • Eriksson, T. et al. (1995), Chirality: https://doi.org/10.1002/chir.530070109
+  > • Ito, T. et al. (2010), Science: https://doi.org/10.1126/science.1177319
+  > • Mori, T. et al. (2018), Scientific Reports: https://doi.org/10.1038/s41598-018-19202-7
+  > #Anthroposium #HistoryOfMedicine #Chemistry #Science
 
 ## Clean Spoken Script (EN — 186 words)
 ```text

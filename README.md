@@ -10,9 +10,11 @@ Repositório central de arquitetura intelectual, identidade de marca, engenharia
 
 **Anthroposium** (`Anthropos` = Humanidade/Humanas + `-ium` = Elemento/Ciência/Matéria + eco de *Symposium*) é um estúdio documental faceless de prestígio construído para escala global — unindo o olhar das **Ciências Humanas** (História, Antropologia, Cultura Material, Psicologia e Poder) à **Ciência de Fronteira** (Biologia, Medicina, Botânica, Química, Toxicologia, Biotecnologia, IA e Computação Quântica).
 
-Diferente de canais genéricos de curiosidades ou fazendas de "AI slop", cada documentário de **Anthroposium** opera sob uma **única tese coerente** (evitando fragmentação da *Seed Audience*):
+Diferente de canais genéricos de curiosidades ou fazendas de "AI slop", cada documentário de **Anthroposium** opera sob uma **única tese coerente** (evitando fragmentação da *Seed Audience*) e sob uma **Lei #1 Primordial e Obrigatória**:
 
-> **Como a humanidade decifra, sobrevive e redesenha a própria biologia — das plantas, alimentos, venenos e impérios do passado até a longevidade, o CRISPR, a IA (AlphaFold) e a computação quântica simulando moléculas hoje.**
+> **LEI #1 — RIGOR ACADÊMICO ABSOLUTO (OBRIGATÓRIO):** Só podemos abordar assuntos, números e mecanismos verificados em **estudos revisados por pares (*peer-reviewed*)**. Todo vídeo longo e todo corte vertical **DEVE conter na legenda/descrição todas as referências científicas com os links completos por extenso (`https://doi.org/...`)** para que qualquer espectador possa clicar e ler o estudo original.
+
+> **Tese Editorial:** Como a humanidade decifra, sobrevive e redesenha a própria biologia — das plantas, alimentos, venenos e impérios do passado até a longevidade, o CRISPR, a IA (AlphaFold) e a computação quântica simulando moléculas hoje.
 
 ---
 

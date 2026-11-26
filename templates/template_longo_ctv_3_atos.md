@@ -16,10 +16,11 @@
   - *Thumb A (Contraste Passado × Futuro):* Visual + texto curto (EN / PT-BR / ES)
   - *Thumb B (Paradoxo Científico / Choque Numérico):* Visual + texto curto
   - *Thumb C (Mistério Humano / Close Dramático):* Visual + texto curto
-- **Fontes Primárias Verificadas (Zero Wikipédia Rasa):**
-  - Estudo / Artigo #1 (periódico, ano, DOI):
-  - Fonte Histórica / Arquivo #2:
-  - Relatório Clínico / Econômico #3:
+- **Fontes Primárias Revisadas por Pares (REGRA PRIMORDIAL OBRIGATÓRIA — Zero Wikipédia Rasa / Zero Blog sem DOI):**
+  - *Cada afirmação numérica, histórica ou molecular do roteiro DEVE mapear para um estudo revisado por pares abaixo, e TODOS os links `https://doi.org/...` DEVEM ser incluídos por extenso na descrição/legenda do vídeo:*
+  - Estudo #1 (Autor, Ano, Título, Periódico — `https://doi.org/...`):
+  - Estudo #2 (Autor, Ano, Título, Periódico — `https://doi.org/...`):
+  - Estudo #3 (Autor, Ano, Título, Periódico — `https://doi.org/...`):
 
 ---
 

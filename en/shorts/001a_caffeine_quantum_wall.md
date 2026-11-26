@@ -4,8 +4,15 @@
 - **Platforms:** 1st TikTok (`@anthroposium`, 15–30 min ahead) → 2nd YouTube Shorts (link *Related Video* to Ep. #01) + Facebook Reels (`Anthroposium`)
 - **Target Runtime:** ~74 seconds (`178 words`) — **>60s eligible for TikTok Creator Rewards** + seamless grammatical loop
 - **400ms Scroll-Stopper Headline:** `10⁴⁸ BITS FOR ONE COFFEE MOLECULE`
-- **Caption / SEO:**
-  > Caffeine only has 24 atoms—yet simulating its exact quantum state breaks the fastest supercomputers ever built. Full 24-minute documentary linked below. #Anthroposium #Science #QuantumComputing #Biotech
+- **Caption / SEO (With Full Peer-Reviewed Links — Anthroposium Law #1):**
+  > Caffeine has only 24 atoms—yet storing its exact, unapproximated quantum state hits the exponential 2^N wall of quantum chemistry. Full 25-minute documentary linked below.
+  >
+  > Peer-reviewed sources:
+  > • Feynman, R. P. (1982), Int. J. Theor. Phys.: https://doi.org/10.1007/bf02650179
+  > • Cao, Y. et al. (2019), Chemical Reviews: https://doi.org/10.1021/acs.chemrev.8b00803
+  > • Sun, D. et al. (2022), Acta Pharmaceutica Sinica B: https://doi.org/10.1016/j.apsb.2022.02.002
+  > • Santagati, R. et al. (2024), Nature Physics: https://doi.org/10.1038/s41567-024-02411-5
+  > #Anthroposium #Science #QuantumComputing #Biotech
 
 ## Clean Spoken Script (EN — 178 words)
 ```text

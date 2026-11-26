@@ -5,6 +5,14 @@
 
 ---
 
+> [!CAUTION]
+> **REGRA PRIMORDIAL E OBRIGATÓRIA (LEI #1 DO ANTHROPOSIUM):**
+> 1. **Exclusivamente Revisado por Pares (*Peer-Reviewed*):** Só é permitido abordar assuntos, mecanismos científicos, dados estatísticos e marcos históricos respaldados por literatura revisada por pares (*Nature, Science, The Lancet, BMJ, PNAS, Chemical Reviews, Science Advances*, etc.) e fontes primárias acadêmicas verificadas. Proibido reproduzir mitos de internet, números de blogs de marketing sem DOI ou afirmações não auditadas.
+> 2. **Referências com Links por Extenso na Legenda/Descrição:** Todo documentário longo e todo corte vertical **DEVE obrigatoriamente listar na legenda/descrição do vídeo todos os estudos citados com autor, ano, título, periódico e link completo por extenso (`https://doi.org/...`)** — nunca links encurtados e nunca citações vagas como *"estudos mostram"*.
+> 3. **Pesquisa Profunda Antes do Roteiro:** Antes de redigir qualquer episódio, realizar busca bibliográfica detalhista (OpenAlex / PubMed / periódicos originais) auditando cada número, data, espécie e mecanismo.
+
+---
+
 ## 1. O Arquétipo Vocal: *O Investigador da Condição Humana*
 
 - **Postura:** Curiosidade rigorosa, calma cinematográfica, clareza absoluta e fascínio genuíno pela história humana e pela ciência real.

@@ -13,10 +13,10 @@
   - EN: ``
   - PT-BR: ``
   - ES: ``
-- **Legenda / Descrição Curta + CTA de Comentário:**
-  - EN: *(1 frase de curiosidade + pergunta polarizadora limpa + 4 hashtags: `#Anthroposium #History #Science #Biotech`)*
-  - PT-BR: *(1 frase + pergunta + `#Anthroposium #Historia #Ciencia #Biotecnologia`)*
-  - ES: *(1 frase + pergunta + `#Anthroposium #Historia #Ciencia #Biotecnologia`)*
+- **Legenda / Descrição Curta + Referências Revisadas por Pares por Extenso (REGRA PRIMORDIAL OBRIGATÓRIA):**
+  - *Obrigatório incluir os links completos `https://doi.org/...` dos estudos citados no corte (ou apontar diretamente para a lista completa de DOIs na descrição do documentário).*
+  - EN: *(1 frase + lista de DOIs por extenso `https://doi.org/...` + 4 hashtags: `#Anthroposium #History #Science #Biotech`)*
+  - DE / FR / ES / PT-BR: *(mesma estrutura com DOIs completos por extenso)*
 
 ---
 
